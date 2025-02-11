@@ -1,3 +1,5 @@
 Added main menu
 Added menu item into the main menu
 Added menu item2 
+
+Added 'Add to Cart' button (Developer2)
