@@ -3,3 +3,5 @@ Added menu item into the main menu
 Added menu item2
 
 Removed "Click here" button 
+
+Added 'Add to Cart' button (Developer2)
